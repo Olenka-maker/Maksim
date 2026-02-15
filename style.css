@@ -1,0 +1,59 @@
+body{
+  font-family: sans-serif;
+  margin: 0;
+ background: #833AB4;
+background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card {
+    width: 280px;
+    background-color: #1f1f1f;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid #333;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.card:hover {
+    border-color: #c94c1e;
+    background-color: #262626;
+}
+
+.card-img {
+    height: 180px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+.card-title {
+    color: #ffae42;
+}
+
+.card-desc {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #bdbdbd;
+    
+}
+
+    .guitar {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin: 15px;
+
+
+    
+}
+.head {text-align: center;
+
+/*Зроби цей сайт красивим 😉*/
